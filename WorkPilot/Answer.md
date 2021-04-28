@@ -56,17 +56,19 @@ ASP.NET SignalR is a library for ASP.NET developers that simplifies the process 
 
 is defined as a type of testing where software modules are integrated logically and tested as a group. A typical software project consists of multiple software modules, coded by different programmers. The purpose of this level of testing is to expose defects in the interaction between these software modules when they are integrated.
 
-Integration Testing focuses on checking data communication amongst these modules.
+Integration Testing focuses on checking data communication amongst the modules.
 
 ### Unit Test
 
-unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use.
+Unit testing is a software testing method by which individual units of source code—sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures—are tested to determine whether they are fit for use.
 
 Unit testing is a verification behavior-testing and verifying the correctness of each function in the program, to provide support for future development;
 
-Unit testing is a design behavior-writing unit tests will allow us to observe and think from the caller, especially considering testing first, so that the program can be designed to be easy to call and testable, and to reduce the coupling in the software , It can also enable coders to produce pre-tests during coding, reducing program defects to a minimum;
+Unit testing is a design behavior-writing unit tests will allow us to observe and think from the caller, especially considering testing first, so that the program can be designed to be easy to call and testable, and to reduce the coupling in the software, It can also enable developers to produce pre-tests during coding, reducing program defects to a minimum;
 
-Unit testing is the act of writing documentation-it is the best document to show how a function or class is used; Unit testing is regressive-automated unit testing helps with regression testing.
+Unit testing is the act of writing documentation-it is the best document to show how a function or class is used; 
+
+Unit testing is regressive-automated unit testing helps with regression testing.
 
 ***
 
