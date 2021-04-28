@@ -1,0 +1,7 @@
+C:\Users\lex\source\repos\WorkPilot\WorkPilot\obj\Debug\netcoreapp3.1\WorkPilot.csprojAssemblyReference.cache
+C:\Users\lex\source\repos\WorkPilot\WorkPilot\obj\Debug\netcoreapp3.1\WorkPilot.AssemblyInfoInputs.cache
+C:\Users\lex\source\repos\WorkPilot\WorkPilot\obj\Debug\netcoreapp3.1\WorkPilot.AssemblyInfo.cs
+C:\Users\lex\source\repos\WorkPilot\WorkPilot\obj\Debug\netcoreapp3.1\WorkPilot.csproj.CoreCompileInputs.cache
+C:\Users\lex\source\repos\WorkPilot\WorkPilot\obj\Debug\netcoreapp3.1\WorkPilot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lex\source\repos\WorkPilot\WorkPilot\obj\Debug\netcoreapp3.1\WorkPilot.RazorAssemblyInfo.cache
+C:\Users\lex\source\repos\WorkPilot\WorkPilot\obj\Debug\netcoreapp3.1\WorkPilot.RazorAssemblyInfo.cs
